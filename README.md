@@ -2,6 +2,10 @@
 
 A beginner-friendly Machine Learning project built using Python and Streamlit.
 
+## 🌐 Live Demo
+
+[Click Here to Open App](ai-mental-health-predictor.streamlit.app)
+
 ## 🚀 Features
 - Predicts mental health vulnerability
 - Predicts possible mental health condition
